@@ -7,7 +7,7 @@ en una forma minima o reducida con los elemenos minimos para el funcionamiento.
 2.  dotnet  add package Microsoft.EntityFrameworkCore.InMemory   --version 6.0.9
 3.  dotnet  add package Microsoft.EntityFrameworkCore.SqlServer  --version 6.0.9
 
-## Para correr el proyecto se hace
+#### Para correr el proyecto se hace
 dotnet run
 
 ## Licencia
